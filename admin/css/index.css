@@ -1,0 +1,24 @@
+.main{
+    margin: 50px 0px;
+    padding: 10px;
+}
+nav a{
+    color: #ffc800 !important;
+}
+
+footer{
+    min-height: 200px;
+    margin: 100px 0 0 0;
+    padding: 20px;
+    border-top: 1px solid gray;
+    background-color: rgb(231, 229, 229);
+    color:#000;
+}
+
+.clear{
+    clear: both !important;
+}
+
+footer p{
+   text-align: right;
+}
